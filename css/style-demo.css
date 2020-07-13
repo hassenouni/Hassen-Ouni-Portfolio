@@ -97,10 +97,16 @@ body.demo-main {
   font-family: "Roboto", serif;
   background-color: #303133; }
 
-img {
+img.Hassen-photo {
   width: 100%;
   height: auto;
   border-radius: 50%;
+}
+
+
+img {
+  width: 100%;
+  height: auto;
 }
 
 header.demo-banner {
