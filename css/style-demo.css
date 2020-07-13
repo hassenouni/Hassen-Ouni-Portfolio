@@ -99,7 +99,9 @@ body.demo-main {
 
 img {
   width: 100%;
-  height: auto; }
+  height: auto;
+  border-radius: 50%;
+}
 
 header.demo-banner {
   margin: 100px 0; }
